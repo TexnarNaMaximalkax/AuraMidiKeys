@@ -23,7 +23,7 @@ AuraMidiKeys это - профессиональная система подсв
 * Размещение на маркетплейсах (Ozon, WB, AliExpress и т.д).
 * Коммерческое использование ПО.
 
-  ## 🚀 Возможности
+  ## 🔮 Что будет в релизе AuraMidiKeys v1.0?
 * **Режим "Тренер"** с реализацией падающих нот + Подсветка клавиш.
 * **Анимации:** Огонь, Радуга, Змейка, Метеор и другие.
 * **Настройка:** Выбор цветов, скорости, яркости.
@@ -61,7 +61,7 @@ Read the license text before using it: see the file LICENSE.txt
 * Placement on marketplaces (Ozon, WB, AliExpress, etc.).
 * Commercial use of the software.
 
-  ## 🚀 Features
+  ## 🔮 What will be in the AuraMidiKeys v1.0 release?
 * **Coach mode** with the implementation of falling notes + Key illumination.
 * **Animations:** Fire, Rainbow, Snake, Meteor and others.
 * **Setup:** Selection of colors, speed, brightness.
