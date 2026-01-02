@@ -68,7 +68,7 @@ Read the license text before using it: see the file LICENSE.txt
 * **Idle Mode:** Automatic rainbow when you are not playing.
 * Great support for different languages
 
-## , Installation
+## 🛠 Installation
 1. Download the sketch from the Firmware folder to your Arduino.
 2. Run `AuraMidiKeys.exe `.
 3. Select the COM port of your Arduino, as well as your Midi controller, and enjoy!
