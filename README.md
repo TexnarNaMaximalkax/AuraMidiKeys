@@ -2,7 +2,8 @@ RU
 # AuraMidiKeys 🎹✨
 
 ❗ На данный момент доступна толька программа AuraMidiControl, в этом месяце будет релиз основной программы AuraMidiKeys ❗
-<img width="699" height="529" alt="image" src="https://github.com/user-attachments/assets/c1bf975c-3ece-40f4-9877-caf68611c881" /> <img width="997" height="1193" alt="image" src="https://github.com/user-attachments/assets/1f7c5b86-cf54-48c5-b652-fa5e4c04b1ef" />
+<img width="699" height="529" alt="image" src="https://github.com/user-attachments/assets/c1bf975c-3ece-40f4-9877-caf68611c881" /> 
+<img width="997" height="1193" alt="image" src="https://github.com/user-attachments/assets/1f7c5b86-cf54-48c5-b652-fa5e4c04b1ef" />
 
 
 AuraMidiKeys это - профессиональная система подсветки для синтезаторов и MIDI-клавиатур с режимом обучения.
